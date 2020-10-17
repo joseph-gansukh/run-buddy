@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;
